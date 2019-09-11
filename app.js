@@ -13,5 +13,5 @@ app.get('/m/:variable/:variable2', function(req,res){
 });
 
 app.listen(3000, '', function(){
-    console.log("App has started on ");
+    console.log("App has started");
 });
